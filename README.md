@@ -14,19 +14,18 @@ Hey there! 👋 I'm Andrew, a passionate (and true) Full Stack Software Engineer
 
 - **Chief Technology Officer,** Vendera Mobile (2016 - Current)
   - Leading a talented team of developers
-  - Developing a Single Pane of Glass solution for Mobile Device technology
+  - Head Developer of a Single Pane of Glass solution for Mobile Device technology
   - Working with vendors and integrating software solutions
-  - Architecting Azure-deployed solutions
-  - Breaking down complex business needs
+  - Architecting a wide array of Azure-deployed solutions
+ 
+- **Founder & Creator,** Textbookly (2009 - Current)
+  - Created and maintained a website with 4 million active users per year
 
 - **Chief Technology Officer,** Air Everywhere (2017-2018)
   - Leading and recruiting a top-notch team
   - Head of development and design efforts
   - Creation of scalable Kubernetes-based Dockerized system
   - Working with emerging augmented reality technologies
-
-- **Founder & Creator,** Textbookly (2009 - Current)
-  - Created and maintained a website with 4 million active users per year
 
 - **Software Engineer,** 1EDISOURCE (2014 - 2017)
   - Developed and maintained EDI technology software
