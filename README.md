@@ -7,7 +7,7 @@ Hey there! I'm Andrew, a Full Stack Software Engineer with a deep love for C#. I
 ### Skills
 
 - **Languages:** C#, Javascript, Python, Go, Swift, TSQL, CSS, and unfortunately PHP & EDI
-- **AI & Machine Learning:** Training custom models for biomedical signal analysis and prediction, CNN-Transformer architectures, local LLM inference and orchestration, multi-GPU pipelines, Stable Diffusion workflows
+- **AI & Machine Learning:** Training custom models for signal analysis and prediction, CNN-Transformer architectures, local LLM inference and orchestration, multi-GPU pipelines, Stable Diffusion workflows
 - **LLM Tooling:** MCP (Model Context Protocol), OpenAI-compatible API integration, LM Studio, WebGPU inference, autonomous agent development
 - **Cloud & Infrastructure:** Azure, AKS, Docker, Kubernetes, Redis, multi-GPU Linux/Windows compute, Vultr, AWS ECS Fargate
 - **Dev Tools:** Rider, Visual Studio, Git, Azure DevOps, Selenium, Salesforce, JumpCloud, Sendgrid, Twilio
